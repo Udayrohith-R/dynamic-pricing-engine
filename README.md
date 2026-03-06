@@ -5,9 +5,11 @@
 ![React](https://img.shields.io/badge/React-18.2+-61dafb.svg)
 ![LightGBM](https://img.shields.io/badge/LightGBM-4.0+-orange.svg)
 ![OR-Tools](https://img.shields.io/badge/OR--Tools-9.7+-blue.svg)
-**Live Demo:** (https://strategic-pricing-inventory-optimizer-1043707120671.us-west1.run.app/))
+
 ## 📌 Overview
 An end-to-end AI system that bridges the gap between predictive machine learning and prescriptive mathematical optimization. This project functions as an intelligent pricing agent that forecasts product demand and mathematically optimizes price points to maximize total revenue while strictly adhering to business margin constraints.
+
+**Live Demo:** (https://strategic-pricing-inventory-optimizer-1043707120671.us-west1.run.app/))
 
 This repository demonstrates a complete, production-ready pipeline combining time-series forecasting, mixed-integer programming (MIP), and a full-stack web application for interactive scenario testing.
 
